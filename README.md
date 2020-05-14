@@ -11,33 +11,30 @@ Reprogramable 60% Keyboard featuring:
 * PCB mount capable
 
 
-![Final product Preview](images/netrunnerkb.jpg)
+![Final product Preview](images/netrunnerkb.jpg)<br />
 
 
 ### Plate and Cace
 
-The case and plate files are found in their /plate and /case folders respectively
-
-I highly recommend [laserboost](https://www.laserboost.com/keyboards) for the keyboard plate manufacturing
+The case and plate files are found in their /plate and /case folders respectively <br />
+I highly recommend [laserboost](https://www.laserboost.com/keyboards) for the keyboard plate manufacturing<br />
 
 ### Firmware
 
-The firmware file is found in /firmware/netrunnerkb.hex
+The firmware file is found in /firmware/netrunnerkb.hex<br />
 
-For reprogramming use the [Keyboard Firmware Builder](https://kbfirmware.com/) site for ease of use. **Please do consider Donating** :euro:
+For reprogramming use the [Keyboard Firmware Builder](https://kbfirmware.com/) site for ease of use. **Please do consider Donating** :euro: <br />
+You'll find the configuration file in /firmware/netrunnerkb.json<br />
 
-You'll find the configuration file in /firmware/netrunnerkb.json
+You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt<br />
+_**If you're going with the layout file please do look at the schematic pinout before proceeding**_<br />
 
-You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt
+![Schamatic Preview](images/Schamatic-preview.png)<br />
 
-_**If you're going with the layout file please do look at the schematic pinout before proceeding**_
-
-![Schamatic Preview](images/Schamatic-preview.png)
-
-### Parts
-
-![PCB Preview](images/PCB-preview.png)
-
+### Parts <br />
+<br />
+![PCB Preview](images/PCB-preview.png)<br />
+<br />
 Parts | Quantities
 ------------ | -------------
 0805 330k Ω | 67
