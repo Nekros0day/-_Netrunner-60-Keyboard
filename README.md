@@ -5,14 +5,14 @@ Reprogramable 60% Keyboard featuring:
 * Arrow key block
 * ISO and ANSI compatible
 * Backlit LED
-* RGB backlight
+* Addressable RGB backlight
 * Compatible with any 60% case
 * included CNC 60% case
 * PCB mount capable
 
 
-![PCB Preview](images/PCB-preview.png)
-![Schamatic Preview](images/Schamatic-preview.png)
+![Final product Preview](images/netrunnerkb.jpg)
+
 
 ### Plate and Cace
 
@@ -29,8 +29,13 @@ You'll find the configuration file in /firmware/netrunnerkb.json
 You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt
 _**If you're going with the layout file please do look at the schematic pinout before proceeding**_
 
+![Schamatic Preview](images/Schamatic-preview.png)
 
-Parts | quantetis
+### Parts
+
+![PCB Preview](images/PCB-preview.png)
+
+Parts | Quantities
 ------------ | -------------
 0805 330k Ω | 67
 ATMEGA32U4-AU | 1
@@ -49,4 +54,5 @@ X1H016000FK1H-X 16MHz | 1
 0805 10k Ω | 3
 UX60SC-MB-5ST | 1
 
-            Happy Hacking! :keyboard:
+
+ Happy Hacking! 💻
