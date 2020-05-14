@@ -17,6 +17,7 @@ Reprogramable 60% Keyboard featuring:
 ### Plate and Cace
 
 The case and plate files are found in their /plate and /case folders respectively
+
 I highly recommend [laserboost](https://www.laserboost.com/keyboards) for the keyboard plate manufacturing
 
 ### Firmware
@@ -24,9 +25,11 @@ I highly recommend [laserboost](https://www.laserboost.com/keyboards) for the ke
 The firmware file is found in /firmware/netrunnerkb.hex
 
 For reprogramming use the [Keyboard Firmware Builder](https://kbfirmware.com/) site for ease of use. **Please do consider Donating** :euro:
+
 You'll find the configuration file in /firmware/netrunnerkb.json
 
 You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt
+
 _**If you're going with the layout file please do look at the schematic pinout before proceeding**_
 
 ![Schamatic Preview](images/Schamatic-preview.png)
