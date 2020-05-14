@@ -23,7 +23,7 @@ I highly recommend [laserboost](https://www.laserboost.com/keyboards) for the ke
 
 The firmware file is found in /firmware/netrunnerkb.hex
 
-For reprogramming use the [Keyboard Firmware Builder](https://kbfirmware.com/) site for ease of use. **Please do consider Donating**
+For reprogramming use the [Keyboard Firmware Builder](https://kbfirmware.com/) site for ease of use. **Please do consider Donating** :euro:
 You'll find the configuration file in /firmware/netrunnerkb.json
 
 You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt
@@ -48,3 +48,5 @@ X1H016000FK1H-X 16MHz | 1
 0805 22 Ω | 2
 0805 10k Ω | 3
 UX60SC-MB-5ST | 1
+
+            Happy Hacking! :keyboard:
