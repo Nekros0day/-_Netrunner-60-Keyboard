@@ -34,7 +34,7 @@ _**If you're going with the layout file please do look at the schematic pinout b
 ### Parts <br />
 <br />
 ![PCB Preview](images/PCB-preview.png)<br />
-<br />
+
 Parts | Quantities
 ------------ | -------------
 0805 330k Ω | 67
