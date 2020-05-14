@@ -31,8 +31,8 @@ _**If you're going with the layout file please do look at the schematic pinout b
 
 ![Schamatic Preview](images/Schamatic-preview.png)
 
-### Parts
-<br />
+### Parts 
+
 ![PCB Preview](images/PCB-preview.png)
 
 Parts | Quantities
