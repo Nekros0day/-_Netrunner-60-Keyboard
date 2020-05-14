@@ -29,11 +29,11 @@ You'll find the configuration file in /firmware/netrunnerkb.json<br />
 You'll find the ISO and ANSI layout files in /firmware/KB_layout-raw-iso_0x1-Netrunner-keyboard_20190801001357.txt<br />
 _**If you're going with the layout file please do look at the schematic pinout before proceeding**_<br />
 
-![Schamatic Preview](images/Schamatic-preview.png)<br />
+![Schamatic Preview](images/Schamatic-preview.png)
 
-### Parts <br />
+### Parts
 <br />
-![PCB Preview](images/PCB-preview.png)<br />
+![PCB Preview](images/PCB-preview.png)
 
 Parts | Quantities
 ------------ | -------------
